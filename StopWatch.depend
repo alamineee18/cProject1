@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1665058389 source:f:\c programming\stopwatch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
